@@ -1,0 +1,16 @@
+.red {
+    background-color: #ff006ff3;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.red.cool{
+    font-size: 24px;
+}
+#two {
+    color: rgb(38, 0, 255);
+    font-size: 36px;
+}
+#four {
+    font-weight: bold;
+    background-color: #4dff00f3;
+    font-size: 24px;
+}
